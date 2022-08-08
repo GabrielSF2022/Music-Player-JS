@@ -1,12 +1,12 @@
-# <div align="center">📌JOGO DA MEMÓRIA📌 </div>
-<h1 align="center">JOGO DA MEMORIA!!!!
+# <div align="center">📌MUSIC PLAYER📌 </div>
+<h1 align="center">MUSIC PLAYER!!!!
   
 ![Custom Music Player - Google Chrome 2022-08-08 16-12-14](https://user-images.githubusercontent.com/97768716/183496501-18642734-767c-496c-95c0-d15e90d1e6fd.gif)
 
 ![172434106-bb6b8b9d-4878-454b-8dca-4d1af4aec0ac__2_-removebg-preview](https://user-images.githubusercontent.com/97768716/183533724-4d125079-e522-4799-adc6-3a7bb6935deb.png)
 
   <h2 align="center">
-  <a href="https://jogo-da-memoria-ivory.vercel.app/" target="_blank"> Veja o site </a>
+  <a href="https://music-player-js-sigma.vercel.app/" target="_blank"> Veja o site </a>
 </h2>
 
 ## Implementações :information_source:
