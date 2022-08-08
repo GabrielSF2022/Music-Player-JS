@@ -1,8 +1,7 @@
 # <div align="center">📌JOGO DA MEMÓRIA📌 </div>
 <h1 align="center">JOGO DA MEMORIA!!!!
   
-  
-![jogo-da-memoria-google-chrome-2022-06-13-20-21-15_3dwMxaoy](https://user-images.githubusercontent.com/97768716/173464197-04e4949a-cd0d-4814-8637-4c6984fb6f9e.gif)
+![Custom Music Player - Google Chrome 2022-08-08 16-12-14](https://user-images.githubusercontent.com/97768716/183496501-18642734-767c-496c-95c0-d15e90d1e6fd.gif)
 ![Design_sem_nome__4_-removebg-preview](https://user-images.githubusercontent.com/97768716/173464178-278c80cb-d266-45e1-bb4a-1c9f9fcd5b03.png)
 
 
