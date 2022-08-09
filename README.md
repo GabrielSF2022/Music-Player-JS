@@ -10,11 +10,13 @@
 </h2>
 
 ## Implementações :information_source:
-1.A aplicação vai verificar se as cartas são iguais, se não forem iguais irão se virar novamente
-<br>  
-2.Quando finalizado o sistema vai lhe informar que o jogo acabou e podera iniciar um novo jogo, com as cartas embaralhadas aleatoriamentes.
-<br>   
-3. Responsividade para mobile.
+1.As músicas ficam dentro de um array, com as informações como nome e a imagem.
+  
+2.Botões com funções como play, pause e quando avançar a musica vai ser uma aleatória.
+   
+3.Timer com a duração da música e outro acompanhando a musica.
+  
+4.Responsividade mobile.
 
 
 <h2 align="center"> FERRAMENTAS USADAS </h2>
